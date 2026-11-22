@@ -19,6 +19,21 @@ const Chapter = {
                     ["operator", { symbol: "Σ" }],
                     ["operator", { symbol: "Σ" }],
                 ],
+                [
+                    ["operator", { symbol: "!" }],
+                    ["operator", { symbol: "!" }],
+                    ["operator", { symbol: "!" }],
+                ],
+                [
+                    ["operator", { symbol: "+" }],
+                    ["operator", { symbol: "+" }],
+                    ["operator", { symbol: "+" }],
+                ],
+                [
+                    ["operator", { symbol: "×" }],
+                    ["operator", { symbol: "×" }],
+                    ["operator", { symbol: "×" }],
+                ],
             ],
         },
         {
@@ -37,6 +52,21 @@ const Chapter = {
                     ["operator", { symbol: "Σ" }],
                     ["operator", { symbol: "Σ" }],
                     ["operator", { symbol: "Σ" }],
+                ],
+                [
+                    ["operator", { symbol: "!" }],
+                    ["operator", { symbol: "!" }],
+                    ["operator", { symbol: "!" }],
+                ],
+                [
+                    ["operator", { symbol: "+" }],
+                    ["operator", { symbol: "+" }],
+                    ["operator", { symbol: "+" }],
+                ],
+                [
+                    ["operator", { symbol: "×" }],
+                    ["operator", { symbol: "×" }],
+                    ["operator", { symbol: "×" }],
                 ],
             ],
         },
@@ -57,6 +87,21 @@ const Chapter = {
                     ["operator", { symbol: "Σ" }],
                     ["operator", { symbol: "Σ" }],
                     ["operator", { symbol: "Σ" }],
+                ],
+                [
+                    ["operator", { symbol: "!" }],
+                    ["operator", { symbol: "!" }],
+                    ["operator", { symbol: "!" }],
+                ],
+                [
+                    ["operator", { symbol: "+" }],
+                    ["operator", { symbol: "+" }],
+                    ["operator", { symbol: "+" }],
+                ],
+                [
+                    ["operator", { symbol: "×" }],
+                    ["operator", { symbol: "×" }],
+                    ["operator", { symbol: "×" }],
                 ],
             ],
         },
